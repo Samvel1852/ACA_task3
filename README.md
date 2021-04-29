@@ -2,7 +2,7 @@
 ### Introduction
 The task is about the javascript complex data types, their usage and the working tools associated with them. Here are used function like:
 
-    -join()
-    -split()
-    -reduce()
-    -etc
+- [join()](https://github.com/Samvel1852/ACA_task3/blob/main/join.md)
+-   [split()]
+-   [reduce()]
+-   etc
