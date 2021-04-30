@@ -10,7 +10,7 @@ for (let i = 0; i < arr.length; i++) {
   } else {
     if (Math.abs(Math.abs(arr[i]) - Math.abs(num)) < diff) {
       diff = Math.abs(Math.abs(arr[i]) - Math.abs(num));
-      index = arr.indexOf(arr[i]);
+      index = i;
     }
   }
 }
